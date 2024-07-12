@@ -14,3 +14,5 @@ reference.fna: the MAG/contig file to map the reads against
 output_prefix: prefix for all output files
 
 "#000000": HEX color code (in quotation marks) for reads in plot 
+
+![file_show](https://github.com/user-attachments/assets/93fc6c77-1334-42c6-ab78-a6689f0dfbd5)
