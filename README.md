@@ -3,7 +3,8 @@ Script to map short read data to reference isolate, single-cell genomes, or meta
 This script uses [LAST search](https://genome.cshlp.org/content/21/3/487.long). It takes into account coordinates if multiple contigs are in the reference. 
 Requires SeqIO from Biopython, defaultdict, numpy, pandas, seaborn, and matplotlib
 
-## Usage: python LAST_recruitment_plot.py fastq_reads reference.fna output_prefix "#000000"
+## Usage: 
+python LAST_recruitment_plot.py fastq_reads reference.fna output_prefix "#000000"
 
 fastq_reads: the FASTQ read file to map
 reference.fna: the MAG/contig file to map the reads against
